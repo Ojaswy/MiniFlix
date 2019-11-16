@@ -2,7 +2,7 @@
 <?php
   session_start(); 
   include 'dbh.php';
-//Inserting details
+//Inserting details      
 
     $fname = strtolower($_POST['fname']);
     $lname =  strtolower($_POST['lname']);
