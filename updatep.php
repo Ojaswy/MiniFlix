@@ -2,7 +2,7 @@
   session_start(); 
   include 'dbh.php';
 
-if(isset($_POST['subpass'])){
+if(isset($_POST['subpass'])){ 
 
     $oldpass = $_POST['oldp'];
     $newpass =  $_POST['newp'];
