@@ -6,11 +6,9 @@
 
 #### ```Functionalitites```       
 
-##### Admin 
-can Upload and Delete Videos
+##### Admin - Upload and Delete Videos
 
-##### Users
-can Register and Watch Videos
+##### Users - Register and Watch Videos
 
 PS - The first person to register would become an Admin [User ID = 1]
 
