@@ -1,7 +1,7 @@
-<?php  
+<?php
   session_start();
-  include 'dbh.php';  
- 
+  include 'dbh.php'; 
+
 if(isset($_POST['sub'])){
 
     $nam = strtolower($_POST['fname']);

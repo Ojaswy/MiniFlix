@@ -1,7 +1,7 @@
-body{    
+body{
   font-family: sans-serif;
   height: 100%;
-}  
+}
 
 .navbar-text{ 
   font-size: 30px;
@@ -34,7 +34,7 @@ body{
   color: black;
   font-weight: bold;
 
-} 
+}
 .container-fluid{
   background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0,0,0,0)),url(images/back.jpg);
   height: 130vh;
