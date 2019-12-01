@@ -1,13 +1,13 @@
 # `MiniFlix`
 
-#### A MINI version of ```Netflix``` which runs on WAMP Server.
+### A mini-version of ```Netflix``` which runs on the WAMP/LAMP/XAMPPx Server.
 
-##### ```Functionalitites```       
+#### ```Functionalitites```       
 
-###### Admin - 
+##### Admin - 
 Upload and Delete Videos
 
-###### User -
+##### User -
 Register and Watch Videos
 
 PS - The first person to register would become an Admin [User ID = 1]
