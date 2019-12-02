@@ -1,9 +1,9 @@
 # `MiniFlix`
 
-### A mini-version of ```Netflix``` which runs on the WAMP/LAMP/XAMPPx Server.
+### A mini-version of ```Netflix``` which runs on the WAMP/LAMP/XAMPP Server.
 
 
-
+ 
 #### ```Functionalitites```       
 
 ##### Admin - Upload and Delete Videos
