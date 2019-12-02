@@ -2,7 +2,7 @@
 
 ### A mini-version of ```Netflix``` which runs on the WAMP/LAMP/XAMPP Server.
 
-
+ 
  
 #### ```Functionalitites```       
 
